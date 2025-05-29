@@ -43,7 +43,7 @@ modules:
       - generated-sources.json
       - type: git
         url: https://github.com/hperrin/stream-overlay.git
-        commit: e22b061c5e35dc35431da22a9e0ef32ae71cf725
+        commit: c844635148b5863cd724a74da204b4143cea5e1f
         dest: source
       - type: file
         path: build-flatpak.sh
